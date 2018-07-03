@@ -11,6 +11,11 @@ html{
     height: 100%;
     margin: 0;
     padding: 0;}
+
 .welcome2{
     cursor:pointer;
 }
+
+    h3 {cursor: pointer;
+    }
+
