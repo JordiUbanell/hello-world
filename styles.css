@@ -1,4 +1,10 @@
 h1 {color: greenyellow; 
     cursor: pointer;
     background-color: black};
-body {background-color: blue};
+body {background-color: blue;
+border: 5px solid violet};
+html{
+    height: 100%;
+    margin: 0;
+    padding: 0;}
+
