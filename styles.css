@@ -1,6 +1,10 @@
 h1 {color: greenyellow; 
     cursor: pointer;
-    background-color: black};
+    background-color: black;
+}
+h2{
+    color: white;
+}
 body {background-color: blue;
 border: 5px solid violet};
 html{
